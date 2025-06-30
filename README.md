@@ -88,6 +88,7 @@ export default function Counter() {
 
 # My experience
 While learning Next.js I built a mini Pinterest clone as a side project. Compared to using plain React, everything felt easier. Pages loaded faster, images were optimized automatically, and routing was built in. I did not deploy it, but building with Next.js helped me understand how it simplifies a lot of setup and improves performance while also saving a lot of time. 
+
 GitHub Repo: [Mini-Pinterest](https://github.com/Ana039/Mini-Pinterest)
 
 
